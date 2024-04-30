@@ -40,6 +40,8 @@ INSTALLED_APPS = [
     'rest_framework',
     'wallet_api',
     'watchman',
+    'django_extensions',
+    'drf_yasg',
     'rest_framework.authtoken'
 ]
 
